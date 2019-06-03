@@ -1,2 +1,4 @@
 # hello-world
 learning to code 
+Hi, Although I qualified in electronics many years ago, I am not a practising electronics engineer but more of a hobbyist. I have an interest in telecommunications and would like to have ago at building my own BFSK modulator. I came across a website which has already done this and rather than just copy their design I would like to try and learn something about coding.
+The original designer used a DDS (AD9954) board to generate the 40 MHz signal in conjunction with an Arduino MKRzero which was used to control the AD9954. I am keen to learn about coding the Arduino board and to find out how the AD9954 hardware functions. When I did a google search the github site came up with libraries for the AD9954 - I thought I would give it a try. Any help particularly with regard to the AD9954 hardware would be gratefully received.
